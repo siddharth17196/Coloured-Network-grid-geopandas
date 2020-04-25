@@ -1,5 +1,4 @@
 <h2> Network grid in geopandas </h2>
-<hr>
 
 1. Plots coloured grids on a map using geopandas.
 2. can be used to analyse continuous data 
