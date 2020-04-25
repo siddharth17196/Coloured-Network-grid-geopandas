@@ -4,5 +4,7 @@ Network-grid-geopandas
 2. can be used to analyse continuous data 
 3. grid_on_map -> grid_value -> data noralization -> final_plot
 
+![GitHub Logo](/images/network.png)
+Format: ![Alt Text](url)
 
 Additional resources - https://github.com/geopandas/geopandas
